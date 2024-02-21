@@ -17,6 +17,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
+  <img align="center" alt="dotnet" height="30" width="40" src="https://dotnet.microsoft.com/static/images/redesign/social/square.png">
+  <img align="center" alt="aspnet" height="30" width="40" src="https://info.microsoft.com/rs/157-GQE-382/images/gdcweb-mktolp-sql-banner.png">
 </div>
 
   ##
